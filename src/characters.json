@@ -5030,8 +5030,7 @@
         "name": "Ayu",
         "character": "ayu",
         "img": "arcaea/ayu.png",
-        "fillColor": "#3BEADF",
-        "strokeColor": "#30bbb2",
+        "color": "#3BEADF",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5045,8 +5044,7 @@
         "name": "Eto",
         "character": "eto",
         "img": "arcaea/eto.png",
-        "fillColor": "#79cfe8",
-        "strokeColor": "#0b8eb7",
+        "color": "#79cfe8",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5060,8 +5058,7 @@
         "name": "Hikari 01",
         "character": "hikari",
         "img": "arcaea/hikari.png",
-        "fillColor": "#ffe7b5",
-        "strokeColor": "#ef7d04",
+        "color": "#ffe7b5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5075,8 +5072,7 @@
         "name": "Ilith",
         "character": "ilith",
         "img": "arcaea/ilith.png",
-        "fillColor": "#f58194",
-        "strokeColor": "#c61632",
+        "color": "#f58194",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5090,8 +5086,7 @@
         "name": "Kou",
         "character": "kou",
         "img": "arcaea/kou.png",
-        "fillColor": "#ffd5d5",
-        "strokeColor": "#f04f87",
+        "color": "#ffd5d5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5105,8 +5100,7 @@
         "name": "Lagrange",
         "character": "lagrange",
         "img": "arcaea/lagrange.png",
-        "fillColor": "#bbd7fa",
-        "strokeColor": "#4c8cdd",
+        "color": "#bbd7fa",
         "defaultText": {
             "text": "BRB",
             "x": 98,
@@ -5120,8 +5114,7 @@
         "name": "Luna",
         "character": "luna",
         "img": "arcaea/luna.png",
-        "fillColor": "#c09edd",
-        "strokeColor": "#7743a3",
+        "color": "#c09edd",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5135,8 +5128,7 @@
         "name": "Maya",
         "character": "maya",
         "img": "arcaea/maya.png",
-        "fillColor": "#f1dece",
-        "strokeColor": "#f4cfb7",
+        "color": "#f1dece",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5150,8 +5142,7 @@
         "name": "Nami",
         "character": "nami",
         "img": "arcaea/nami.png",
-        "fillColor": "#f9c2cb",
-        "strokeColor": "#f62f51",
+        "color": "#f9c2cb",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5165,8 +5156,7 @@
         "name": "Shirahime",
         "character": "shirahime",
         "img": "arcaea/shirahime.png",
-        "fillColor": "#c3d5ff",
-        "strokeColor": "#657ae7",
+        "color": "#c3d5ff",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5180,8 +5170,7 @@
         "name": "Tairitsu 01",
         "character": "tairitsu",
         "img": "arcaea/tairitsu.png",
-        "fillColor": "#80e8d5",
-        "strokeColor": "#329f8c",
+        "color": "#80e8d5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5195,8 +5184,7 @@
         "name": "Vita",
         "character": "vita",
         "img": "arcaea/vita.png",
-        "fillColor": "#f58194",
-        "strokeColor": "#c81c38",
+        "color": "#f58194",
         "defaultText": {
             "text": "OK!",
             "x": 148,
@@ -5210,8 +5198,7 @@
         "name": "Hikari 02",
         "character": "hikari",
         "img": "arcaea/hikari2.png",
-        "fillColor": "#ffe7b5",
-        "strokeColor": "#ef7d04",
+        "color": "#ffe7b5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5225,8 +5212,7 @@
         "name": "Tairitsu 02",
         "character": "tairitsu",
         "img": "arcaea/tairitsu2.png",
-        "fillColor": "#80e8d5",
-        "strokeColor": "#329f8c",
+        "color": "#80e8d5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5240,8 +5226,7 @@
         "name": "Kanae",
         "character": "kanae",
         "img": "arcaea/kanae.png",
-        "fillColor": "#fbd0ad",
-        "strokeColor": "#FFB87F",
+        "color": "#fbd0ad",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5255,8 +5240,7 @@
         "name": "Saya",
         "character": "saya",
         "img": "arcaea/saya.png",
-        "fillColor": "#80e8d5",
-        "strokeColor": "#329f8c",
+        "color": "#80e8d5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5270,8 +5254,7 @@
         "name": "Tairitsu 03",
         "character": "tairitsu",
         "img": "arcaea/tairitsu3.png",
-        "fillColor": "#80e8d5",
-        "strokeColor": "#329f8c",
+        "color": "#80e8d5",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5285,8 +5268,7 @@
         "name": "Shirabe",
         "character": "shirabe",
         "img": "arcaea/shirabe.png",
-        "fillColor": "#E5616D",
-        "strokeColor": "#974149",
+        "color": "#E5616D",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5300,8 +5282,7 @@
         "name": "Lethe",
         "character": "lethe",
         "img": "arcaea/lethe.png",
-        "fillColor": "#F6D3C2",
-        "strokeColor": "#E3BAA7",
+        "color": "#F6D3C2",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5315,8 +5296,7 @@
         "name": "Insight",
         "character": "insight",
         "img": "arcaea/insight.png",
-        "fillColor": "#C9CBEA",
-        "strokeColor": "#a8a9c3",
+        "color": "#C9CBEA",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -5330,8 +5310,7 @@
         "name": "Aichan",
         "character": "aichan",
         "img": "arcaea/aichan.png",
-        "fillColor": "#CDB4E8",
-        "strokeColor": "#a28fb6",
+        "color": "#CDB4E8",
         "defaultText": {
             "text": "something",
             "x": 148,
